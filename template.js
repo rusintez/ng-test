@@ -1,0 +1,1 @@
+module.exports = '<!-- some DOM -->\n  <img src="http://lorempixel.com/400/400/fashion">\n<!-- /some DOM -->';
